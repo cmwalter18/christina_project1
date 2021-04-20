@@ -2,6 +2,7 @@
 first project
 
 # AngularJS 1: Building a Data-Driven App
+
 This is the repository for my course AngularJS 1: Building a Data-Driven App. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/angularjs-1-building-a-data-driven-app-2?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/AngularJS-tutorials/AngularJS-1-Building-Data-Driven-App/534629-2.html)
 
 [![AngularJS 1: Building a Data-Driven App](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=SRuhXf3WIhg4dTX5WhKaOqqv3ZI%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWCGs-NyfZXTtf8XWZLSiol8WfSwJlgUyeOyhRznoFo69LcLmY4Yx3A)](https://www.linkedin.com/learning/angularjs-1-building-a-data-driven-app-2?trk=insiders_6787408_learning)
